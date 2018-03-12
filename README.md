@@ -3,7 +3,7 @@ Rapid Accident Reporter (RAR)
 
 Summary
 ->Portable Raspberry Device which report the Ambulance with GPS coordinate and exact Location when an Accident Occur.
-->The Device also Message the Emergency Contact.
+->The Device also Message the Emergency Contact.\n
 ->Device is Portable, Shock-free and can be Install to any Car.
 
 Requiement:
