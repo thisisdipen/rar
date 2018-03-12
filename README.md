@@ -1,5 +1,5 @@
-# rar
-Rapid Accident Reporter (RAR)
+<h1># rar</h1>
+<h1>Rapid Accident Reporter (RAR)</h1>
 
 Summary</br>
 ->Portable Raspberry Device which report the Ambulance with GPS coordinate and exact Location when an Accident Occur.</br>
